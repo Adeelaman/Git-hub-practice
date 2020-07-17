@@ -8,10 +8,10 @@
 // console.log(profile);
 
 
-// let myArray = ["Adeel", "Aman", "Burana", "Qureshi"];
-// myArray[9] = "Lahore";
+let myArray = ["Adeel", "Aman", "Burana", "Qureshi"];
+myArray[9] = "Lahore";
 
-// console.log(myArray);
+console.log(myArray);
 
 // for (let i = 0; i < myArray.length; i++) {
 // 	console.log("Hello " + myArray[i])
