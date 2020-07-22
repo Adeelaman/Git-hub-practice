@@ -13,8 +13,8 @@ myArray[9] = "Lahore";
 
 console.log(myArray);
 
-// for (let i = 0; i < myArray.length; i++) {
-// 	console.log("Hello " + myArray[i])
+for (let i = 0; i < myArray.length; i++) {
+	console.log("Hello " + myArray[i])
 // }
 // var txt = "Hello World!";
 // var x = 
