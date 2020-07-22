@@ -2,8 +2,8 @@
 // console.log(name + " " + name1);
 // let profile = {
 // 	name : "anyone",
-// 	uni : "UVAS",
-// 	favColor : "Blue"
+	uni : "UVAS",
+	favColor : "Blue"
 // };
 // console.log(profile);
 
